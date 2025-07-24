@@ -1,13 +1,15 @@
-# 🌿 Powdery Mildew Detection App with Xception and MobileNet
+#   🌿 Powdery Mildew Detection App with Xception and MobileNet
 
 > 🚀 Deep learning-based image classification tool for early detection of *powdery mildew* in crops. Deployed as a Flask web application.
 
 ## 🧪 Description | Descripción
 
 **EN:**  
+
 This project implements two Convolutional Neural Network (CNN) architectures, **Xception** and **MobileNet**, for detecting the presence and severity of **powdery mildew** on plant leaves. The models were trained on a custom dataset and deployed as a web application using Flask.
 
-**ES:**  
+**ES:** 
+
 Este proyecto implementa dos arquitecturas de redes neuronales convolucionales (CNN), **Xception** y **MobileNet**, para detectar la presencia y severidad del **mildiu polvoriento** en hojas de plantas. Los modelos fueron entrenados con un conjunto de datos personalizado y desplegados como una aplicación web usando Flask.
 
 ---
@@ -102,6 +104,7 @@ ES:
 Esta herramienta es solo para fines educativos y de investigación. No sustituye el diagnóstico profesional en el manejo agrícola.
 
 📬 Contact
+
 Jesús Enrique Flores Riera
 Email: [jfloresr@unal.edu.co]
 GitHub: jf-floresriera
